@@ -1,0 +1,11 @@
+/venv
+venv/
+venv 
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+/product_file/
+/output/
+master_df.csv
